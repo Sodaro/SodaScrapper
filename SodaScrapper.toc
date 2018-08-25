@@ -1,0 +1,6 @@
+## Interface: 80000
+## Title: SodaScrapper
+## Author: Sodaro
+## Notes: Add items to Shred-Master Mk1 with /scrap
+## Version: 0.1.0
+main.lua
