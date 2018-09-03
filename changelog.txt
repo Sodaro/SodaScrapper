@@ -1,0 +1,6 @@
+### 0.2.0
+-/scrap now only works while the scrapper window is open
+-automatically add items to scrap when scrapper window is opened
+
+### 0.1.0
+-basic functionality
